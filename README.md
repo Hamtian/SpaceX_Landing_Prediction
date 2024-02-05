@@ -16,7 +16,7 @@ By leveraging data-driven insights, machine learning techniques, and interactive
 
 In this project, I utilized the SpaceX REST API to gather relevant data, encompassing launch details such as rocket information, payload specifics, and landing outcomes. Additional Falcon 9 launch records were acquired through web scraping using Python's BeautifulSoup package. The combination of API and web scraping methodologies provided a robust foundation for extracting diverse information about SpaceX launches.
 
-- **Exploratory Data Analysis (EDA)***
+- **Exploratory Data Analysis (EDA)**
 
 The EDA phase serves as the foundation for this project, offering key insights into Falcon 9 rocket launches and setting the stage for subsequent analyses.
 
