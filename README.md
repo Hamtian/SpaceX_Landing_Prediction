@@ -45,7 +45,7 @@ The line graph indicates a positive trend in the launch success rate over the ye
 ![Success rate for different types of orbit](images/bar_chart.png)
 
 The bar chart provides an overview of the success rates of booster landings based on the type of orbit to which the rockets were launched.
-Please refer to the Notebooks folder for more insights!
+(Please refer to the Notebooks for more insights!)
 
 ### Interactive Visual Analytics
 
