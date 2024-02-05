@@ -12,23 +12,23 @@ By leveraging data-driven insights, machine learning techniques, and interactive
 
 ## Methodology
 
-### Data Collection
+- **Data Collection**
 
 In this project, I utilized the SpaceX REST API to gather relevant data, encompassing launch details such as rocket information, payload specifics, and landing outcomes. Additional Falcon 9 launch records were acquired through web scraping using Python's BeautifulSoup package. The combination of API and web scraping methodologies provided a robust foundation for extracting diverse information about SpaceX launches.
 
-### Exploratory Data Analysis (EDA)
+- **Exploratory Data Analysis (EDA)***
 
 The EDA phase serves as the foundation for this project, offering key insights into Falcon 9 rocket launches and setting the stage for subsequent analyses.
 
 Initially, I dive into the dataset using a database and SQL, extracting valuable information for in-depth examination. The next step involves creating visualizations to identify correlations between attributes and successful landings, with a keen focus on determining the key factors that influence outcomes.
 Throughout this phase, the goal is to unravel the intricate relationships within the data, establishing a solid base for informed decision-making in the project's later stages.
 
-### Interactive Visual Analytics
+- **Interactive Visual Analytics**
 
 Interactive visual analytics introduces a dynamic and real-time approach to exploring and manipulating data, allowing users to swiftly identify visual patterns and enhancing the effectiveness of data exploration.
 Within this section, I utilize Folium and Plotly Dash to craft an interactive map and dashboard, providing a platform for in-depth analysis.
 
-### Predictive Analysis
+- **Predictive Analysis**
 
 The project entailed constructing a robust machine learning pipeline aimed at predicting the success of Falcon 9's first-stage landings. This involved a systematic approach, encompassing hyperparameter tuning, model training, and evaluation, ultimately leading to the identification of the best-performing model.
 
