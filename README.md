@@ -132,7 +132,7 @@ Future steps may include refining the model, addressing class imbalance, and fur
 - Once finished, press Ctrl+C in the terminal and close it.
 
 **5. Project Origin:**
-- I created this project as the final capstone project of the IBM Data Science course.
+- I created this project as the final capstone project of the [IBM Data Science course](https://www.coursera.org/account/accomplishments/specialization/4AXNPGXRDRV9)
 
 **6. Contact:**
 - If you have any questions or comments, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/hamidrezarahimi/)
