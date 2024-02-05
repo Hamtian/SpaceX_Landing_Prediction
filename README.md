@@ -105,7 +105,7 @@ The insights gained from this project empower SpaceX to make more informed decis
 **Considerations for the Space Exploration Community:**
 Beyond SpaceX, the success of this predictive model contributes to the broader space exploration community. Similar machine learning approaches can be adopted by other space agencies and private enterprises to enhance their understanding of mission outcomes, promote sustainability, and pave the way for cost-effective space exploration.
 
-**Recommendations for Future Steps:***
+**Recommendations for Future Steps:**
 While the model has demonstrated robustness, the identification of potential areas for refinement, particularly in accurately identifying negative instances, suggests avenues for future improvement. Continuous analysis, refinement of the model, addressing class imbalances, and investigating influential features will be crucial for advancing the predictive capabilities of such models.
 
 In summary, the successful deployment of a predictive model for Falcon 9's first-stage landings not only benefits SpaceX in its operational endeavors but also contributes valuable knowledge to the wider space exploration community. As the space industry continues to evolve, data-driven insights become increasingly instrumental in shaping the future of space travel.
