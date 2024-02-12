@@ -150,5 +150,5 @@ In summary, the successful deployment of a predictive model for Falcon 9's first
 - I created this project as the final capstone project of the [IBM Data Science course](https://www.coursera.org/account/accomplishments/specialization/4AXNPGXRDRV9)
 
 **6. Contact:**
-- If you have any questions or comments, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/hamidrezarahimi/)
+- For any inquiries, collaboration opportunities, or feedback, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/hamidrezarahimi/). Your insights are highly valued and appreciated.
 
